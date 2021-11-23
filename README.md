@@ -1,2 +1,2 @@
 # Minecraft
-Collection of MEE course in Chinese
+Repository of MEE course in Chinese
