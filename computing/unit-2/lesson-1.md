@@ -1,6 +1,6 @@
 ### @explicitHints 1
 
-# Lesson 1: Code a Road Network
+# 第一课: 通过编程建造道路
 
 ## Step 1
 把``||Player:当聊天命令为...时||``模块中的**run**命令修改成**road_1**. 选择``||Blocks:填充方块||``代码模块，将其拖拽到``||Player:当聊天命令为...时||``模块中. 
