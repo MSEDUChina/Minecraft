@@ -3,7 +3,7 @@
 # Lesson 1: Code a Road Network
 
 ## Step 1
-把``||Player:on chat command||``模块中的**run**命令修改成**road_1**. Select the ``||Blocks:fill with||`` code block and drag it into your ``||Player:on chat command||`` block. 
+把``||Player:当聊天命令为...时||``模块中的**run**命令修改成**road_1**. 选择``||Blocks:填充方块||``代码模块，将其拖拽到``||Player:当聊天命令为...时||``模块中. 
 
 ### ~ tutorialhint
 ``` blocks
