@@ -26,3 +26,96 @@ Press C to start coding! Happy coding!
 欢迎来到机器人总局。 在这里，您可以领取您的代理机器人，学习如何和他共事，并利用它开始在我的世界教育版中的冒险
 
 请按 C 开始编码！ 祝您编程愉快！
+
+Press C to bring your Agent into the game here.
+
+按 C ，召唤你的代理机器人。
+
+lesson 1：
+
+Code A Conversation With Your Agent
+
+第1课：
+
+通过编码和你的代理机器人对话
+
+Ask Your Agent To Come To You
+
+将代理机器人传送到玩家
+
+Make your agent rotate on the spot
+
+让代理机器人原地旋转
+
+Lesson2：
+
+Make your agent move.
+
+第2课
+
+移动代理机器人
+
+Welcome to Lesson 2!
+
+Your will learn to  move your Agent around. When you are ready to code, press C!
+
+欢迎来到第2课
+
+你将学会如何移动你的代理机器人。准备好了吗？按C开始编码吧！
+
+Code your agent to follow the orange 
+
+通过编码让你的代理机器人沿着橙色瓷砖移动
+
+code your agent to follow you to the next red tile
+
+通过编码让代理机器人跟随你来到下一块红色瓷砖
+
+code your agent to chop and collect tree wood
+
+通过编码让代理机器人摧毁并收集树木
+
+##
+Guide 向导
+
+welcome to lesson 3!
+
+you will learn how to build a bridge with the agent. First, explore the agent's inventory!
+
+Press C to start coding!
+
+欢迎来到第3课
+
+你将学习如何与代理机器人一起搭建桥梁。首先，探索代理机器人的物品栏！
+
+按 C 开始编码吧！
+
+Lesson 3：
+
+Code Agent To Build A Bridge With The Wood
+
+通过对代理机器人编码用木头方块搭建一座桥。
+
+Agency Pass Master
+
+COngratulations, you have completed Lesson Set 1 and are now ready to move on to your next adventure.
+
+Can you build an entire city from code?
+
+Exit by coding your Agent to build a bridge to the door.
+
+机器人总局通行官
+
+恭喜， 你已经完成了第一单元的课程，现在可以开启你的下一个冒险了！
+
+你可以用编码创造一座完整的城市吗？
+
+用代理机器人编码搭建一座通往出口大门的桥梁吧！
+
+Unit 2 and 3:
+
+By order of The Agency, this land has been designated for the development of a brand new city.
+
+Using Units 2 and 3 from Computing with Minecraft, create a city around this area. For your city to meet government regulations, it must be built using block coding or JavaScript.
+
+Your city can be as imaginative as you wish. However, the government requires it include a road network, housing, office 

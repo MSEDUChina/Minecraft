@@ -71,7 +71,7 @@ player.onChat("road_1", function () {
 
 ## Step 5
 ##We are almost ready to test our code, however there is one more important thing we have to do to make this code work properly. Change the center, or **Z** coordinate, to one number lower. In this example, this will be **68**. Now test your code. If you have coded correctly, you should see a road appear in place of the Grass. 
-在对刚刚完成的编码进行测试前，我们还需要做一件更重要的事情来保证他的正常运行。将中心或者**Z**坐标修改为一个更小的数字。在本例中，这个数字为**68**。现在可以对编码进行测试了，如果一切顺利，你将看到一条道路出现在草坪上。
+在对刚刚完成的编码进行测试前，我们还需要做一件更重要的事情来保证他的正常运行。将中心点或者**Z**坐标修改为一个更小的数字。在本例中，这个数字为**68**。现在可以对编码进行测试了，如果一切顺利，你将看到一条道路出现在草坪上。
 
 ### ~ tutorialhint
 ``` blocks
@@ -87,8 +87,7 @@ player.onChat("road_1", function () {
 ```
 
 ## Step 6
-##Repeat the steps for the second road. 
-重复以上步骤建造第二条道路。
+Repeat the steps for the second road. 
 
 ### ~ tutorialhint
 ``` blocks

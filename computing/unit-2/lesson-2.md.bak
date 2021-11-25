@@ -3,8 +3,7 @@
 # Lesson 2: Code a Building
 
 ## Step 1
-##Let's start with building the walls. Rename the **run** element of the ``||Player:on chat command||`` block to **build_a_structure**. Drag and drop the ``||Agent:agent set active slot||`` code block to the coding Workspace and add it to your  ``||Player:on chat command||`` code block. 
-让我们从建造墙壁开始。选择``||player:当聊天命令为...时||``命令模块并将他从**run**重命名为**build_a_structure**。在编码工作区中拖放一个``||Agent:agent set active slot||``
+Let's start with building the walls. Rename the **run** element of the ``||Player:on chat command||`` block to **build_a_structure**. Drag and drop the ``||Agent:agent set active slot||`` code block to the coding Workspace and add it to your  ``||Player:on chat command||`` code block. 
 
 ### ~ tutorialhint
 ``` blocks
