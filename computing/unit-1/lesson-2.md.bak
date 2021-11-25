@@ -18,7 +18,7 @@
 
 ## Step 4
 ##When done, press the **Play** button to compile the code, then go to the Minecraft world, press **T** and type **move**.
-完成代码后，按下**播放**按钮编译代码，回到我的世界，按下**T**并输入**move**。
+完成代码后，按下**开始**按钮编译代码，回到我的世界，按下**T**并输入**move**。
 
 ## Step 5
 ##To code your Agent to chop down a tree, select a new ``||player:on chat||`` command. Now you need to add ``||agent: agent move||``, ``||agent: agent destroy||`` commands. Think which direction you want the Agent to move. 
