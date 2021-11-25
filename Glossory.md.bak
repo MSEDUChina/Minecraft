@@ -11,4 +11,4 @@ Coding with Minecraft = Computing with Minecraft = 我的世界编程大全
 ||agent: agent destroy|| = ||agent: 代理机器人摧毁||
 ||agent: agent collect all|| = ||agent: 代理机器人收集全部||
 ||agent: agent place on move|| = ||agent: 代理机器人在移动时放置||
-||agent: agent place|| = ||agent: 代理机器人放置方向||
+||agent: agent place|| = ||agent: 代理机器人放置||

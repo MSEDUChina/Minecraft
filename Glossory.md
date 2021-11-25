@@ -12,3 +12,6 @@ Coding with Minecraft = Computing with Minecraft = 我的世界编程大全
 ||agent: agent collect all|| = ||agent: 代理机器人收集全部||
 ||agent: agent place on move|| = ||agent: 代理机器人在移动时放置||
 ||agent: agent place|| = ||agent: 代理机器人放置||
+||Positions:world [0] [0] [0]|| = ||Positions:世界 [0] [0] [0]||
+||Blocks:fill|| = ||Blocks:填充方块||
+||Positions:POSITIONS|| = ||Positions:位置||
